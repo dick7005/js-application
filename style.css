@@ -1,3 +1,10 @@
 body{
-    background-image: url(images/gold\ .jpeg);
+    background-image: url(images/dogback.jpg);
+}
+.start{
+    background-color: chartreuse;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+
 }
