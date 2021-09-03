@@ -1,5 +1,14 @@
-// const singleQuotes = "hello, world";
-const name = "dick";
-const backticks = `hello, ${name}`;
+let male = ("kwasi,kwadwo,kwabena,kwaku,yaw,kofi,kwame");
+let female = ("akosua,adwao,abenaa,akua,yaa,afua,ama");
 
-console.log(backticks)
+let kwasi =("sunday")
+let kwadwo =("monday")
+let kwabena =("Tuesday")
+let kwaku=("wednesday")
+let yaw =("Thursday")
+let kofi =("friday")
+let kwame =("saturday")
+
+console.log(male);
+console.log(female);
+
