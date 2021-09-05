@@ -18,9 +18,9 @@ student at moringa campus
 ## Technologies Used
 progrming languages:
 
-          *html{to wright text}
+          *html {to wright text}
           
-          *css{to style the website}
+          *css {to style the website}
           
           *javascript {a scripting language to give functionality}
 ## Support and contact details
