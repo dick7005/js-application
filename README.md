@@ -27,10 +27,9 @@ progrming languages:
 * in case of any emergencies or issues please feel free to contact:
 * email:pythonscript254@gmail.com
 * tell: 0757116399
-* 
-#launch project date 
 
-*september/5th/2021
+#launch date
+
 
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
