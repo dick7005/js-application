@@ -27,7 +27,6 @@ progrming languages:
 * in case of any emergencies or issues please feel free to contact:
 * email:pythonscript254@gmail.com
 * tell: 0757116399
-* 
 ##launch project date 
 
 *september/5th/2021
