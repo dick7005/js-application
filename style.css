@@ -6,8 +6,13 @@ body{
     background-color: orange;
     width: 50%;
     padding: 40px;
-    
+    margin: 20px;
 }
-.baby{
-    float: 20px;
+.name{
+color: dark black;
+}
+.ghana{
+width: 100px;
+border-width:150px ;
+
 }
