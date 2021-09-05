@@ -8,18 +8,16 @@ student at moringa campus
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
 * This is an odinary website
-* 
 * straight forward in using
-* 
 * no requirments or any scripting that need to be run
-* 
-* 
+
 ## Known Bugs
 *no bugs left un debugged
 
 *the code is bug free..
 ## Technologies Used
 progrming languages:
+
           *html
           
           *css
