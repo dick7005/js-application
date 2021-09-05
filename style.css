@@ -1,11 +1,13 @@
 body{
 
-    background-image: url(images/dogback.jpg);
+    background-image: url(images/wall.jpeg);
 }
 .start{
-    background-color: chartreuse;
+    background-color: orange;
     width: 50%;
     padding: 40px;
-    margin: 100px auto;
-
+    
+}
+.baby{
+    float: 20px;
 }
