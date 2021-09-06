@@ -1,32 +1,32 @@
-body{
-
-    background-image: url(images/wall.jpeg);
+body {
+  background-image: url(images/wall.jpeg);
 }
-.start{
-    background-color: orange;
-    width: 50%;
-    padding: 40px;
-    margin: 20px;
+.start {
+  background-color: orange;
+  width: 50%;
+  padding: 40px;
+  margin: 20px;
 }
-.name{
-color: dark black;
+.name {
+  color: dark black;
 }
-.images{
-background-color:rgba(226, 50, 19, 0.021);
-width: 50%;
-padding: 40px;
-float: left 50%;
-
+.images {
+  background-color: rgba(226, 50, 19, 0.021);
+  width: 50%;
+  padding: 40px;
+  float: left 50%;
 }
-.ghana{
-    width: 290px;
+.ghana {
+  width: 290px;
 }
-.container{
-    background-color:orange;
-    width: 70%;
-    padding: 30px;
+.container {
+  background-color: orange;
+  width: 70%;
+  padding: 30px;
 }
-.deco{
-background-color:pink;
-
+.deco {
+  background-color: pink;
+}
+.btn {
+  color: green;
 }
