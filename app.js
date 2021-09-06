@@ -11,7 +11,10 @@ const akanName = (e) => {
     const  yearGhana =document.getElementById("year").value;
     const d =new Date(yearGhana, (monthGhana-1),dateGhana).getDay();
 
-
+if(dateGhana<=0 || dateGhana>31 || monthGhana<0 || monthGhana>12){
+    alert("please input the valid dates");
+    
+}
     
 
     console.log(fd.get("date of birth"));
